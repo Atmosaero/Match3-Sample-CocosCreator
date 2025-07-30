@@ -4,7 +4,7 @@ A simple Match3 puzzle game example built with Cocos Creator 3.8.6 and TypeScrip
 
 ![Demo](demo.gif)
 
-## English
+## EN
 
 ### Overview
 This is a basic Match3 game implementation demonstrating:
