@@ -1,6 +1,6 @@
-# Match3 Game Example
+# Match3 Game Sample
 
-A simple Match3 puzzle game example built with Cocos Creator 3.8.6 and TypeScript.
+A simple Match3 puzzle game sample built with Cocos Creator 3.8.6 and TypeScript.
 
 ![Demo](demo.gif)
 
